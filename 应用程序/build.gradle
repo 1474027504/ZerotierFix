@@ -5,7 +5,7 @@ plugins {
 
 greendao {
     schemaVersion 22
-    daoPackage 'net.kaaass.zerotierfix.model'
+    daoPackage 'net.1474027504.zerotierfix.model'
 }
 
 android {
